@@ -1,0 +1,43 @@
+{
+  "keybindings": {
+    "Posts": {
+      "<Ctrl-d>": "Quit", // Another way to quit
+      "<Ctrl-c>": "Quit", // Yet another way to quit
+      "<Ctrl-s>": "Save",
+      "<Ctrl-right>": "NextTab",
+      "<up>": "Up",
+      "<down>": "Down",
+      "<e>": "Edit",
+      "<x>": "Delete",
+      "<n>": "New",
+      "<esc>": "Back",
+      "<tab>": "Tab",
+    },
+    "Users": {
+      "<Ctrl-d>": "Quit", // Another way to quit
+      "<Ctrl-c>": "Quit", // Yet another way to quit
+      "<Ctrl-s>": "Save",
+      "<Ctrl-right>": "NextTab",
+      "<up>": "Up",
+      "<down>": "Down",
+      "<e>": "Edit",
+      "<x>": "Delete",
+      "<n>": "New",
+      "<esc>": "Back",
+      "<tab>": "Tab",
+    },
+    "Tags": {
+      "<Ctrl-d>": "Quit", // Another way to quit
+      "<Ctrl-c>": "Quit", // Yet another way to quit
+      "<Ctrl-s>": "Save",
+      "<Ctrl-right>": "NextTab",
+      "<up>": "Up",
+      "<down>": "Down",
+      "<e>": "Edit",
+      "<x>": "Delete",
+      "<n>": "New",
+      "<esc>": "Back",
+      "<tab>": "Tab",
+    },
+  }
+}
